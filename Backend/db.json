@@ -1,0 +1,32 @@
+{
+  "employees": [
+    {
+      "name": "adhi",
+      "id": 1
+    },
+    {
+      "name": "adhi",
+      "sal": "10000",
+      "com": "aaa",
+      "id": 2
+    },
+    {
+      "name": "shiva",
+      "sal": "100000",
+      "com": "tcs",
+      "id": 3
+    },
+    {
+      "name": "guru",
+      "sal": "100000",
+      "com": "tcs",
+      "id": 4
+    },
+    {
+      "name": "adhi",
+      "sal": "222",
+      "com": "asd",
+      "id": 5
+    }
+  ]
+}
